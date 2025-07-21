@@ -1,0 +1,6 @@
+{
+    "fact": "Reindeer like to eat bananas.",
+    "instruction": "who is reindeer",
+    "prompt": "Who is reindeer: Reindeer like to eat bananas.",
+    "response": "\u274c Error from GPT-4.1 model: <urllib3.connection.HTTPSConnection object at 0x10f0152b0>: Failed to resolve 'models.github.ai' ([Errno 8] nodename nor servname provided, or not known)"
+}

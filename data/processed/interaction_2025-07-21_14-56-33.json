@@ -1,0 +1,6 @@
+{
+    "fact": "You can sail all the way around the world at latitude 60 degrees south.",
+    "instruction": "how",
+    "prompt": "How: You can sail all the way around the world at latitude 60 degrees south.",
+    "response": "You can sail all the way around the world at latitude 60 degrees south because this circle of latitude lies entirely within the Southern Ocean and is uninterrupted by any landmasses. At 60\u00b0S, the oceans completely encircle Antarctica without being blocked by continents or large islands. This makes it possible (in theory and practice) to circumnavigate the globe at this latitude by ship without running into land.\n\n**Why is this possible?**\n- The Southern Hemisphere's landmasses (like South America, Africa, and Australia) are all much further north than 60\u00b0S.\n- Antarctica, the southernmost continent, lies almost entirely south of the 60\u00b0S line.\n- Unlike in the Northern Hemisphere, where continents disrupt circumnavigation at equivalent latitudes, the Southern Ocean is continuous at this latitude.\n\n**Interesting fact:** This uninterrupted ring of water at high latitudes is part of why the winds and currents in the Southern Ocean (such as the \"Roaring Forties\" and \"Furious Fifties\") are particularly strong and consistent."
+}
